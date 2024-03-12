@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ofUwn6UqM45E0xJKyPtN-9_PkfVI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'ug-mLNR1ZApp0rgzYNeCIqmg5AZS7JpfpkmIiJgUceY',
+      useTemplateId: '9i409-BInlHmE-CSKKDutc7ysBUvRaXi-FTPRAHkCzo',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -57,7 +57,7 @@ const USER_CONFIG = {
   IS_SHOW_COLOR: false,
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'EYV9Iciu4TMvPdm4rniBU1GAWd_opKZavJQWzE_HfeQ',
+  CALLBACK_TEMPLATE_ID: '9i409-BInlHmE-CSKKDutc7ysBUvRaXi-FTPRAHkCzo',
 
   CALLBACK_USERS: [
     {
