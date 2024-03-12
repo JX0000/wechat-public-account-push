@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ofUwn6UqM45E0xJKyPtN-9_PkfVI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'BFST2r_ifhbJAP_hUk5VaFuDL1FlDDf4ViVdh8jmleE',
+      useTemplateId: 'tOToUFP7v4tUV57APrX7AG4BIpYoRDaf-CjRqCyujsI',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -43,23 +43,8 @@ const USER_CONFIG = {
     },
   ],
 
-   TIAN_API: {
-    // 天行API KEY，如果使用天行API则需要填写此项
-    key: 'f138e98861b7399ebee5710a959cb2b7',
-    
-    /** 天行API相关，需要config中配置 TIAN_API_KEY  */
-    // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    morningGreeting: true,
-    //励志言语
-    Whether_lizhi: true;
-  },
-
-    /** 是否给文字设置多彩颜色, 和emoji不兼容 */
-  // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
-  IS_SHOW_COLOR: false,
-
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'BFST2r_ifhbJAP_hUk5VaFuDL1FlDDf4ViVdh8jmleE',
+  CALLBACK_TEMPLATE_ID: 'tOToUFP7v4tUV57APrX7AG4BIpYoRDaf-CjRqCyujsI',
 
   CALLBACK_USERS: [
     {
